@@ -1,0 +1,11 @@
+Conformity Report:
+
+Modified files:
+- C:/Users/nelly/Documents/C1_programming\message (14).txt
+
+New files created:
+- C:/Users/nelly/Documents/C1_programming\archi.jpg
+
+Deleted files:
+- C:/Users/nelly/Documents/C1_programming\Screenshot 2023-11-02 141625.png
+
